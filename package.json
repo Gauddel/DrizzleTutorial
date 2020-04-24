@@ -23,7 +23,8 @@
     "react-native-paper": "^3.8.0",
     "react-native-randombytes": "^3.5.3",
     "react-native-sqlite-storage": "^5.0.0",
-    "vm-browserify": "^1.1.2"
+    "vm-browserify": "^1.1.2",
+    "web3": "^1.2.6"
   },
   "devDependencies": {
     "@babel/core": "^7.9.0",
